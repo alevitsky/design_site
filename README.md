@@ -1,1 +1,1 @@
-Visit test version: https://design-site-andlev.c9users.io/index.html
+Visit test version: https://alevitsky.github.io/design_site
